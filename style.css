@@ -1,0 +1,28 @@
+header{
+    background-image: url(/bootstrap_project1/images/maddi-bazzocco-786K4OK_Dfo-unsplash.jpg);
+    background-size:cover;
+    height: 700px;
+    width:100%;
+}
+
+
+
+.welcome{
+    text-align: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.btn{
+    border-radius: 60px;
+    padding: 10px 15px;
+    text-align: center;
+    margin-left: 550px;
+
+}
+
+footer{
+    border: 10px;
+    text-align: center;
+}
+
